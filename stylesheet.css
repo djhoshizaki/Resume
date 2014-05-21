@@ -1,0 +1,65 @@
+/*For html resume*/
+body {
+	background-color: #808080;
+}	
+	
+.opening {
+	font-family: Cambria, serif;
+	background-color: white;
+	border: #E6B85C outset 5px;
+	margin: 20px 100px;
+	padding: 10px;
+	text-align: center;
+}
+	
+a {
+	 font-family: Baskerville, serif;
+	 text-decoration: none;
+}
+
+a:hover {
+	color: #FF3300;
+}
+
+a:active {
+	color: #009933
+}		
+
+h1 {
+	font-family: Garamond, serif;
+}
+
+.experiencehead {
+	color: #003D99;
+	font-family: Georgia;
+}
+
+#experience {
+	background-color: #EDEDED;
+	border: #00CCFF inset 5px;
+	margin: 10px 100px;
+	padding: 10px;
+}			
+
+#educationhead {
+	color: #B22400;
+	font-family: Georgia;
+}	
+
+#education {
+	background-color: #EDEDED;
+	border: #FF3300 inset 5px;
+	margin: 10px 100px;
+	padding: 10px;
+}	
+
+#interests {
+	background-color: #EDEDED;
+	border: #33CC33 inset 5px;
+	margin: 10px 100px;
+	padding: 10px;
+}
+	
+.normal {
+	font-family: Baskerville, serif;
+}	
